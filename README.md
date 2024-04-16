@@ -1,16 +1,37 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/MikaelNaz/MikaelNaz/assets/93049738/c610d5ba-ca89-4213-a5ad-a1ce7c310ed0" width="450" height="300"/>
+</div>
 
-<!--
-**MikaelNaz/MikaelNaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi! I am Mikael 👋
+</h1>
 
-Here are some ideas to get you started:
+A few words about me :man_technologist:
+ - I am in my third year at STANKIN Moscow State Technical University
+ - I’m currently learning Python and C++
+ - I'm actively seeking internships or projects where I can apply my programming skills and gain practical experience in the industry.
+   
+My technology stack:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My socials:
+<div id="badges">
+  <a href="https://t.me/mikaelnaz">
+    <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=TELEGRAM&logoColor=white" alt="TELEGRAM Badge"/>
+  </a>
+  <a href="https://vk.com/id105625213">
+    <img src="https://img.shields.io/badge/VKONTAKTE-darkblue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=MikaelNaz&style=flat-square&color=blue" alt=""/>
+
+
