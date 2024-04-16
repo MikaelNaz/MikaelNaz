@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/MikaelNaz/MikaelNaz/assets/93049738/c610d5ba-ca89-4213-a5ad-a1ce7c310ed0" width="450" height="300"/>
-</div>
-
 <h1 align="center">
   Hi! I am Mikael 👋
 </h1>
