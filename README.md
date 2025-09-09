@@ -3,7 +3,7 @@
 </h1>
 
 A few words about me :man_technologist:
- - I'm in my third year at STANKIN Moscow State Technical University
+ - I'm in my forth year at STANKIN Moscow State Technical University
  - I'm currently learning Python and C++
  - I'm actively seeking internships or projects where I can apply my programming skills and gain practical experience in the industry.
    
